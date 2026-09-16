@@ -14,14 +14,14 @@
       "database_name": "freecoffee-db",
       "migrations_dir": "./migrations",
       // "database_id": "3af86531-c0a9-4566-930e-89a6d9abd140",
-      "database_id": "local-development",
+      "database_id": "2fabaae9-9239-4bc3-8d72-c3499f29e25c",
     },
   ],
   "kv_namespaces": [
     {
       "binding": "FREECOFFEE_KV",
       // "id": "7483c42d3ce24e9f81f743b305ae7ab8",
-      "id": "local-development",
+      "id": "fbb5177a347c41b6b91bb113527d2c78",
     },
   ],
   "send_email": [
